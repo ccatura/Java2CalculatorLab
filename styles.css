@@ -1,0 +1,17 @@
+.root {
+    -fx-background-color: #333333;
+}
+
+.button {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-pref-width: 80px;
+    -fx-pref-height: 80px;
+}
+
+.button:focused {
+    -fx-focus-color: transparent;
+    -fx-border-color: #cccccc;
+    -fx-border: 0px;
+    -fx-background-insets: -1.4, 0, 1, 2;
+}

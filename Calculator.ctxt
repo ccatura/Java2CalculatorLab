@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ The\ main\ method\ is\ only\ needed\ for\ the\ IDE\ with\ limited\r\n\ JavaFX\ support.\ Not\ needed\ for\ running\ from\ the\ command\ line.\r\n
+numComments=3

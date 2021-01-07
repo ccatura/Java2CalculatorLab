@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ButtonClick2
+comment0.text=\r\n\ A\ simple\ app\ to\ demo\ event\ handling\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=e
+comment2.target=void\ handle(javafx.event.ActionEvent)
+numComments=3
